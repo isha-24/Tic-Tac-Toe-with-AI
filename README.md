@@ -8,6 +8,10 @@ This repository contains a Tic-Tac-Toe game implemented using the min-max algori
 - Visualize the game board in a user-friendly manner.
 - Implement the best strategy to win or force a draw against the AI.
 
+## Demo
+
+[Link to live demo](https://tic-tac-toe-with-ai-isha-24.netlify.app/)
+
 ## Technologies Used
 
 - HTML
